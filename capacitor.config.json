@@ -1,0 +1,17 @@
+{
+  "appId": "ru.pashaser.sugarcheck",
+  "appName": "Sugar Check",
+  "webDir": "dist",
+
+  "android": {
+    "buildOptions": {
+
+      "keystorePath": "../KeyStore.jks",
+      "keystorePassword": "12345678",    
+      "keystoreAlias": "upload",   
+      "keystoreAliasPassword": "12345678",
+    
+      "releaseType": "APK"
+    }
+  }
+}
