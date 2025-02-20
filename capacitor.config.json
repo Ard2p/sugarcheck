@@ -1,6 +1,6 @@
 {
-  "appId": "ru.pashaser.sugarcheck",
-  "appName": "Sugar Check",
+  "appId": "ru.eacorp.sugarcheck",
+  "appName": "Дневник учета сахара",
   "webDir": "dist",
 
   "android": {

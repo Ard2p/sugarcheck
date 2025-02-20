@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "ru.pashaser.sugarcheck"
+    namespace "ru.eacorp.sugarcheck"
     compileSdk rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "ru.pashaser.sugarcheck"
+        applicationId "ru.eacorp.sugarcheck"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion targetSdkVersion
         versionCode 1

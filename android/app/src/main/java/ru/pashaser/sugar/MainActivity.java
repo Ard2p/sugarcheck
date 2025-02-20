@@ -1,4 +1,4 @@
-package ru.pashaser.sugarcheck;
+package ru.eacorp.sugarcheck;
 
 import com.getcapacitor.BridgeActivity;
 

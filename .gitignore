@@ -23,5 +23,8 @@ pnpm-debug.log*
 
 # Keystore files
 # Uncomment the following lines if you do not want to check your keystore files in.
+*.pem
 *.jks
 *.keystore
+pepk.jar
+pepk_out.zip

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Sugar Check</string>
-    <string name="title_activity_main">Sugar Check</string>
-    <string name="package_name">ru.pashaser.sugarcheck</string>
-    <string name="custom_url_scheme">ru.pashaser.sugarcheck</string>
+    <string name="app_name">Дневник учета сахара</string>
+    <string name="title_activity_main">Дневник учета сахара</string>
+    <string name="package_name" translatable="false">ru.eacorp.sugarcheck</string>
+    <string name="custom_url_scheme" translatable="false">ru.eacorp.sugarcheck</string>
 </resources>
